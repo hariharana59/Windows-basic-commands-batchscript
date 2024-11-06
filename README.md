@@ -32,34 +32,38 @@ Create a directory named "MyLab" on the desktop.
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
+![image](https://github.com/user-attachments/assets/152ed9a8-8cdc-4056-abef-3d41b6c04d3f)
+
 
 ## COMMAND AND OUTPUT
 
 List the contents of the "MyLab" directory.
+
+![image](https://github.com/user-attachments/assets/0bca13da-f8b2-4ac0-9e44-ada6c866f640)
 
 
 ## COMMAND AND OUTPUT
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
+![image](https://github.com/user-attachments/assets/823fae86-425d-40c9-b133-3d55e002a238)
+
+
 ## COMMAND AND OUTPUT
 
 Move the "MyLab" directory to the "Documents" folder.
 
+![image](https://github.com/user-attachments/assets/198645e5-f5c0-40e2-99f6-9e360e578639)
 
 ## COMMAND AND OUTPUT
+![image](https://github.com/user-attachments/assets/b265eee0-d8b0-4917-b156-88f73b1c761c)
 
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
 
-
-
-
-
-
-
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/b24e2db6-cee3-48ef-9faf-dbaea1411f82)
 
 
 
